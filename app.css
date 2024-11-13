@@ -1,0 +1,26 @@
+body {
+    background: linear-gradient(#F4CC70 0%, #DE7A22 40%, #20948B 100%);
+}
+.profile{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 100px;
+}
+.profileImage {
+    width: 200px;
+}
+.profile h2{
+    color: white;
+}
+.profile h4{
+    color: white;
+    transform: translateY(-10px);
+}
+.ABOUT {
+    background-color: #fff;
+}
+.footer {
+    background-color: #fff;
+}
